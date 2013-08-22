@@ -1,0 +1,111 @@
+$/OBA/PV2K_1800/Apl
+
+SessaoV2_5.ocx       REBUILD     4/11/12   9:30    Destroyed SessaoV2_5.ocx              
+SessaoV1_5.ocx       REBUILD     4/11/12   9:30    Destroyed SessaoV1_5.ocx              
+SessaoM_5.VBL        REBUILD     4/11/12   9:30    Destroyed SessaoM_5.VBL               
+SessaoM_5.ocx        REBUILD     4/11/12   9:30    Destroyed SessaoM_5.ocx               
+RelatorioV_5.ocx     REBUILD     4/11/12   9:30    Destroyed RelatorioV_5.ocx            
+RelatorioM_5.VBL     REBUILD     4/11/12   9:30    Destroyed RelatorioM_5.VBL            
+RelatorioM_5.ocx     REBUILD     4/11/12   9:30    Destroyed RelatorioM_5.ocx            
+ObSimpleClass_5.dll  REBUILD     4/11/12   9:30    Destroyed ObSimpleClass_5.dll         
+ObNvo_5.dll          REBUILD     4/11/12   9:30    Destroyed ObNvo_5.dll                 
+ObMenu_5.dll         REBUILD     4/11/12   9:30    Destroyed ObMenu_5.dll                
+ObClientSupp_5.dll   REBUILD     4/11/12   9:30    Destroyed ObClientSupp_5.dll          
+OBClientLite_5.exe   REBUILD     4/11/12   9:30    Destroyed OBClientLite_5.exe          
+ContaV7_5.ocx        REBUILD     4/11/12   9:30    Destroyed ContaV7_5.ocx               
+ContaV6_5.ocx        REBUILD     4/11/12   9:30    Destroyed ContaV6_5.ocx               
+ContaV5_5.ocx        REBUILD     4/11/12   9:30    Destroyed ContaV5_5.ocx               
+ContaV4_5.ocx        REBUILD     4/11/12   9:30    Destroyed ContaV4_5.ocx               
+ContaM_5.VBL         REBUILD     4/11/12   9:30    Destroyed ContaM_5.VBL                
+ContaM_5.ocx         REBUILD     4/11/12   9:30    Destroyed ContaM_5.ocx                
+ContabV1_5.ocx       REBUILD     4/11/12   9:30    Destroyed ContabV1_5.ocx              
+ContabilM_5.VBL      REBUILD     4/11/12   9:30    Destroyed ContabilM_5.VBL             
+ContabilM_5.ocx      REBUILD     4/11/12   9:30    Destroyed ContabilM_5.ocx             
+ChequeV_5.ocx        REBUILD     4/11/12   9:30    Destroyed ChequeV_5.ocx               
+CaixaM_5.VBL         REBUILD     4/11/12   9:30    Destroyed CaixaM_5.VBL                
+CaixaM_5.ocx         REBUILD     4/11/12   9:30    Destroyed CaixaM_5.ocx                
+Caixa_5.ocx          REBUILD     4/11/12   9:30    Destroyed Caixa_5.ocx                 
+AutorizadorM_5.VBL   REBUILD     4/11/12   9:30    Destroyed AutorizadorM_5.VBL          
+AutorizadorM_5.ocx   REBUILD     4/11/12   9:30    Destroyed AutorizadorM_5.ocx          
+AutenticadorM_5.VBL  REBUILD     4/11/12   9:30    Destroyed AutenticadorM_5.VBL         
+AutenticadorM_5.ocx  REBUILD     4/11/12   9:30    Destroyed AutenticadorM_5.ocx         
+ObClient_5.exe       REBUILD     4/11/12   0:05    Destroyed ObClient_5.exe              
+ContaV8_5.ocx        REBUILD     4/11/12   0:05    Destroyed ContaV8_5.ocx               
+Conta_5.ocx          REBUILD     4/11/12   0:05    Destroyed Conta_5.ocx                 
+SessaoV2_5.ocx       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/SessaoV2_5 
+                                                    .ocx                                 
+SessaoV1_5.ocx       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/SessaoV1_5 
+                                                    .ocx                                 
+SessaoM_5.VBL        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/SessaoM_5. 
+                                                    VBL                                  
+SessaoM_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/SessaoM_5. 
+                                                    ocx                                  
+Sessao_5.ocx         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/Sessao_5.o 
+                                                    cx                                   
+RelatorioV_5.ocx     Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/RelatorioV 
+                                                    _5.ocx                               
+RelatorioM_5.VBL     Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/RelatorioM 
+                                                    _5.VBL                               
+RelatorioM_5.ocx     Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/RelatorioM 
+                                                    _5.ocx                               
+ObSimpleClass_5.dll  Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ObSimpleCl 
+                                                    ass_5.dll                            
+ObNvo_5.dll          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ObNvo_5.dl 
+                                                    l                                    
+ObMenu_5.dll         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ObMenu_5.d 
+                                                    ll                                   
+ObClientSupp_5.dll   Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ObClientSu 
+                                                    pp_5.dll                             
+OBClientLite_5.exe   Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/OBClientLi 
+                                                    te_5.exe                             
+ObClient_5.exe       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ObClient_5 
+                                                    .exe                                 
+ContaV8_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaV8_5. 
+                                                    ocx                                  
+ContaV7_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaV7_5. 
+                                                    ocx                                  
+ContaV6_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaV6_5. 
+                                                    ocx                                  
+ContaV5_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaV5_5. 
+                                                    ocx                                  
+ContaV4_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaV4_5. 
+                                                    ocx                                  
+ContaV3_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaV3_5. 
+                                                    ocx                                  
+ContaV2_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaV2_5. 
+                                                    ocx                                  
+ContaV1_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaV1_5. 
+                                                    ocx                                  
+ContaM_5.VBL         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaM_5.V 
+                                                    BL                                   
+ContaM_5.ocx         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContaM_5.o 
+                                                    cx                                   
+ContabV2_5.ocx       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContabV2_5 
+                                                    .ocx                                 
+ContabV1_5.ocx       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContabV1_5 
+                                                    .ocx                                 
+ContabilM_5.VBL      Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContabilM_ 
+                                                    5.VBL                                
+ContabilM_5.ocx      Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ContabilM_ 
+                                                    5.ocx                                
+Contab_5.ocx         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/Contab_5.o 
+                                                    cx                                   
+Conta_5.ocx          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/Conta_5.oc 
+                                                    x                                    
+ChequeV_5.ocx        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/ChequeV_5. 
+                                                    ocx                                  
+CaixaM_5.VBL         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/CaixaM_5.V 
+                                                    BL                                   
+CaixaM_5.ocx         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/CaixaM_5.o 
+                                                    cx                                   
+Caixa_5.ocx          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/Caixa_5.oc 
+                                                    x                                    
+AutorizadorM_5.VBL   Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/Autorizado 
+                                                    rM_5.VBL                             
+AutorizadorM_5.ocx   Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/Autorizado 
+                                                    rM_5.ocx                             
+AutenticadorM_5.VBL  Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/Autenticad 
+                                                    orM_5.VBL                            
+AutenticadorM_5.ocx  Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/Apl/Autenticad 
+                                                    orM_5.ocx                            
+                     Admin      12/08/11  20:03    Created Apl                           

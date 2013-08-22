@@ -1,0 +1,13 @@
+$/OBA/PV2K_1800/obgw/source/obgwstw
+
+obgwstw.rc           REBUILD     4/11/12  11:29    Destroyed obgwstw.rc                  
+obgwstw.cpp          REBUILD     4/11/12  11:29    Destroyed obgwstw.cpp                 
+resource.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwstw/resource.h                     
+obgwstw.rc           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwstw/obgwstw.rc                     
+obgwstw.cpp          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwstw/obgwstw.cpp                    
+icon1.ico            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwstw/icon1.ico                      
+                     Admin      12/08/11  20:03    Created obgwstw                       

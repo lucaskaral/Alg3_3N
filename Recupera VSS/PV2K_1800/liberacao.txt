@@ -1,0 +1,6 @@
+$/OBA/PV2K_1800/obgw/liberacao
+
+obgwrelease.bat      REBUILD     4/11/12  10:49    Destroyed obgwrelease.bat             
+obgwrelease.bat      Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/liberacao 
+                                                    /obgwrelease.bat                     
+                     Admin      12/08/11  20:03    Created liberacao                     

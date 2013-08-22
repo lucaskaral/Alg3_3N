@@ -1,0 +1,57 @@
+$/OBA/PV2K_1800/obgw
+
+obgwtstMT.dsp        REBUILD     4/11/12  10:43    Destroyed obgwtstMT.dsp               
+obgwstat.dsp         REBUILD     4/11/12  10:43    Destroyed obgwstat.dsp                
+obgwMT.plg           REBUILD     4/11/12  10:43    Destroyed obgwMT.plg                  
+obgwMT.opt           REBUILD     4/11/12  10:43    Destroyed obgwMT.opt                  
+obgwMT.ncb           REBUILD     4/11/12  10:43    Destroyed obgwMT.ncb                  
+obgwMT.mak           REBUILD     4/11/12  10:43    Destroyed obgwMT.mak                  
+obgwMT.dsw           REBUILD     4/11/12  10:43    Destroyed obgwMT.dsw                  
+obgwMT.dsp           REBUILD     4/11/12  10:43    Destroyed obgwMT.dsp                  
+obgwinstMT.dsp       REBUILD     4/11/12  10:43    Destroyed obgwinstMT.dsp              
+obgwinst.dsp         REBUILD     4/11/12  10:43    Destroyed obgwinst.dsp                
+obgwidvpMT.dsp       REBUILD     4/11/12   0:20    Destroyed obgwidvpMT.dsp              
+OBGW.MAK             REBUILD     4/11/12   0:20    Destroyed OBGW.MAK                    
+obgw.dsp             REBUILD     4/11/12   0:20    Destroyed obgw.dsp                    
+OBGW.doc             REBUILD     4/11/12   0:20    Destroyed OBGW.doc                    
+$source              Admin      12/08/11  20:03    Added source                          
+$servcode            Admin      12/08/11  20:03    Added servcode                        
+$liberacao           Admin      12/08/11  20:03    Added liberacao                       
+$Config              Admin      12/08/11  20:03    Added Config                          
+obgwtstMT.dsp        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwtstMT 
+                                                    .dsp                                 
+obgwtst.dsp          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwtst.d 
+                                                    sp                                   
+obgwstwMT.dsp        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwstwMT 
+                                                    .dsp                                 
+obgwstw.dsp          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwstw.d 
+                                                    sp                                   
+obgwstatMT.dsp       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwstatM 
+                                                    T.dsp                                
+obgwstat.dsp         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwstat. 
+                                                    dsp                                  
+obgwMT.plg           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.pl 
+                                                    g                                    
+obgwMT.opt           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.op 
+                                                    t                                    
+obgwMT.ncb           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.nc 
+                                                    b                                    
+obgwMT.mak           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.ma 
+                                                    k                                    
+obgwMT.dsw           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.ds 
+                                                    w                                    
+obgwMT.dsp           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.ds 
+                                                    p                                    
+obgwinstMT.dsp       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwinstM 
+                                                    T.dsp                                
+obgwinst.dsp         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwinst. 
+                                                    dsp                                  
+obgwidvpMT.dsp       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwidvpM 
+                                                    T.dsp                                
+obgwidvp.dsp         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwidvp. 
+                                                    dsp                                  
+OBGW.MAK             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/OBGW.MAK  
+OBGW.dsw             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/OBGW.dsw  
+obgw.dsp             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgw.dsp  
+OBGW.doc             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/OBGW.doc  
+                     Admin      12/08/11  20:03    Created obgw                          

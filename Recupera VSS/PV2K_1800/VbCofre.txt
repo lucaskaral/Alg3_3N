@@ -1,0 +1,85 @@
+$/OBA/PV2K_1800/servcode/VbCofre
+
+Source/ObCofreSuppor REBUILD     4/11/12  10:49    Destroyed ObCofreSupport_5.vbw        
+ t_5.vbw                                                                                 
+Source/ObCofre_Desli REBUILD     4/11/12  10:49    Destroyed ObCofre_Desligamento.vbp    
+ gamento.vbp                                                                             
+Source/ObCofre_5.vbw REBUILD     4/11/12  10:49    Destroyed ObCofre_5.vbw               
+Source/ObCofre_5.vbp REBUILD     4/11/12  10:49    Destroyed ObCofre_5.vbp               
+Source/modMainSuppor REBUILD     4/11/12  10:49    Destroyed modMainSupport.bas          
+ t.bas                                                                                   
+Source/modMain.bas   REBUILD     4/11/12  10:49    Destroyed modMain.bas                 
+Source/modGeneric.ba REBUILD     4/11/12  10:49    Destroyed modGeneric.bas              
+ s                                                                                       
+Source/frmSimulDesen REBUILD     4/11/12  10:49    Destroyed frmSimulDesenv.frm          
+ v.frm                                                                                   
+Source/frmDesligamen REBUILD     4/11/12  10:49    Destroyed frmDesligamento.frm         
+ to.frm                                                                                  
+Source/clsDadosCofre REBUILD     4/11/12  10:49    Destroyed clsDadosCofre.cls           
+ .cls                                                                                    
+Source/clsCofreLinkS REBUILD     4/11/12  10:49    Destroyed clsCofreLinkServer.cls      
+ erver.cls                                                                               
+Source/clsCofre.cls  REBUILD     4/11/12  10:49    Destroyed clsCofre.cls                
+Bin/ObCofreSupport_5 REBUILD     4/11/12  10:49    Destroyed ObCofreSupport_5.lib        
+ .lib                                                                                    
+Bin/ObCofreSupport_5 REBUILD     4/11/12  10:49    Destroyed ObCofreSupport_5.exp        
+ .exp                                                                                    
+Bin/ObCofreSupport_5 REBUILD     4/11/12  10:49    Destroyed ObCofreSupport_5.dll        
+ .dll                                                                                    
+Bin/ObCofre_5.lib    REBUILD     4/11/12  10:49    Destroyed ObCofre_5.lib               
+Bin/ObCofre_5.exp    REBUILD     4/11/12  10:49    Destroyed ObCofre_5.exp               
+Bin/ObCofre_5.exe    REBUILD     4/11/12  10:49    Destroyed ObCofre_5.exe               
+Source/OBCOFRESUPPOR REBUILD     4/11/12   0:28    Destroyed OBCOFRESUPPORT_5.VBP        
+ T_5.VBP                                                                                 
+Source/OBCOFRE_DESLI REBUILD     4/11/12   0:28    Destroyed OBCOFRE_DESLIGAMENTO.vbw    
+ GAMENTO.vbw                                                                             
+ObCofreSupport_5.vbw Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/ObCofreSupport_5.vbw       
+OBCOFRESUPPORT_5.VBP Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/OBCOFRESUPPORT_5.VBP       
+OBCOFRE_DESLIGAMENTO Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+ .vbw                                               re/Source/OBCOFRE_DESLIGAMENTO.vbw   
+ObCofre_Desligamento Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+ .vbp                                               re/Source/ObCofre_Desligamento.vbp   
+ObCofre_5.vbw        Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/ObCofre_5.vbw              
+ObCofre_5.vbp        Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/ObCofre_5.vbp              
+modMainSupport.bas   Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/modMainSupport.bas         
+modMain.bas          Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/modMain.bas                
+modGeneric.bas       Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/modGeneric.bas             
+frmSimulDesenv.frm   Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/frmSimulDesenv.frm         
+frmMainSupport.frm   Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/frmMainSupport.frm         
+$Source              Admin      13/08/11  13:48    Added Source                          
+$Db                  Admin      13/08/11  13:48    Added Db                              
+ObCofreSupport_5.lib Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Bin/ObCofreSupport_5.lib          
+ObCofreSupport_5.exp Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Bin/ObCofreSupport_5.exp          
+dadoscofre.mdb       Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Db/dadoscofre.mdb                 
+frmMain.frm          Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/frmMain.frm                
+frmDesligamento.frm  Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/frmDesligamento.frm        
+clsDadosCofre.cls    Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/clsDadosCofre.cls          
+clsCofreLinkServer.c Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+ ls                                                 re/Source/clsCofreLinkServer.cls     
+clsCofre.cls         Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Source/clsCofre.cls               
+$Bin                 Admin      13/08/11  13:48    Added Bin                             
+                     Admin      13/08/11  13:48    Created VbCofre                       
+ObCofreSupport_5.dll Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Bin/ObCofreSupport_5.dll          
+ObCofre_5.lib        Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Bin/ObCofre_5.lib                 
+ObCofre_5.exp        Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Bin/ObCofre_5.exp                 
+ObCofre_5.exe        Admin      13/08/11  13:48    Shared $/OBA/PV2K_1750/servcode/VbCof 
+                                                    re/Bin/ObCofre_5.exe                 

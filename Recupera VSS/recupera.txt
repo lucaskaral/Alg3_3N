@@ -1,0 +1,32 @@
+OBMAKER:
+    servsrc  ok
+    class    ok
+    context  ok
+    datatype ok
+    lib      ok
+    module   ok
+    obj      ok
+    persist  ok
+    relat    ok
+    servcli  ok
+    servcom  ok
+    service  ok
+    view     ok
+    
+    
+SERVER:
+        class       ok
+        clicom      ok
+        cons        ok
+        context     ok
+        datatype    ok
+        lib         ok
+        module      ok
+        obj         ok
+        persist     ok
+        servcli     ok
+        servcom     ok
+        service     ok
+        
+        
+19.0 falta server ( está no servcli )

@@ -1,0 +1,12 @@
+$/OBA/PV2K_1800/obgw/Config
+
+TABOPER.CFG          REBUILD     4/11/12  10:49    Destroyed TABOPER.CFG                 
+hostsim.cfg          REBUILD     4/11/12   0:23    Destroyed hostsim.cfg                 
+host.cfg             REBUILD     4/11/12   0:23    Destroyed host.cfg                    
+TABOPER.CFG          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/Config/TA 
+                                                    BOPER.CFG                            
+hostsim.cfg          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/Config/ho 
+                                                    stsim.cfg                            
+host.cfg             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/Config/ho 
+                                                    st.cfg                               
+                     Admin      12/08/11  20:03    Created Config                        

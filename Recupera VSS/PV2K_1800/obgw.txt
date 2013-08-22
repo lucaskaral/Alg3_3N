@@ -1,0 +1,227 @@
+$/OBA/PV2K_1800/obgw
+
+source/obgwtst/obgwt REBUILD     4/11/12  11:31    Destroyed obgwtst.cpp                 
+ st.cpp                                                                                  
+source/obgwstw/obgws REBUILD     4/11/12  11:29    Destroyed obgwstw.rc                  
+ tw.rc                                                                                   
+source/obgwstw/obgws REBUILD     4/11/12  11:29    Destroyed obgwstw.cpp                 
+ tw.cpp                                                                                  
+source/obgwstat/obgw REBUILD     4/11/12  11:28    Destroyed obgwstat.cpp                
+ stat.cpp                                                                                
+source/obgwinst/obgw REBUILD     4/11/12  11:28    Destroyed obgwinst.rc                 
+ inst.rc                                                                                 
+source/obgwinst/obgw REBUILD     4/11/12  11:28    Destroyed obgwinst.h                  
+ inst.h                                                                                  
+source/obgwinst/obgw REBUILD     4/11/12  11:28    Destroyed obgwinst.c                  
+ inst.c                                                                                  
+source/obgwinst/file REBUILD     4/11/12  11:28    Destroyed filexec.lst                 
+ xec.lst                                                                                 
+source/obgw/ptacfg.c REBUILD     4/11/12  10:57    Destroyed ptacfg.cpp                  
+ pp                                                                                      
+source/obgw/obgw.cpp REBUILD     4/11/12  10:57    Destroyed obgw.cpp                    
+source/obgw/merro.c  REBUILD     4/11/12  10:57    Destroyed merro.c                     
+source/obgw/host2.cp REBUILD     4/11/12  10:57    Destroyed host2.cpp                   
+ p                                                                                       
+source/include/ptaty REBUILD     4/11/12  10:57    Destroyed ptatypes.h                  
+ pes.h                                                                                   
+source/include/ptad. REBUILD     4/11/12  10:57    Destroyed ptad.h                      
+ h                                                                                       
+source/include/obpho REBUILD     4/11/12  10:57    Destroyed obphost.h                   
+ st.h                                                                                    
+source/include/OBPAA REBUILD     4/11/12  10:57    Destroyed OBPAABM.H                   
+ BM.H                                                                                    
+source/include/obopu REBUILD     4/11/12  10:57    Destroyed obopus.h                    
+ s.h                                                                                     
+source/include/OBIOS REBUILD     4/11/12  10:57    Destroyed OBIOSOT.H                   
+ OT.H                                                                                    
+source/include/obhso REBUILD     4/11/12  10:57    Destroyed obhsot.h                    
+ t.h                                                                                     
+source/include/obhos REBUILD     4/11/12  10:57    Destroyed obhostsot.h                 
+ tsot.h                                                                                  
+source/include/defso REBUILD     4/11/12  10:57    Destroyed defsot.h                    
+ t.h                                                                                     
+source/include/debug REBUILD     4/11/12  10:57    Destroyed debug.h                     
+ .h                                                                                      
+liberacao/obgwreleas REBUILD     4/11/12  10:49    Destroyed obgwrelease.bat             
+ e.bat                                                                                   
+Config/TABOPER.CFG   REBUILD     4/11/12  10:49    Destroyed TABOPER.CFG                 
+obgwtstMT.dsp        REBUILD     4/11/12  10:43    Destroyed obgwtstMT.dsp               
+obgwstat.dsp         REBUILD     4/11/12  10:43    Destroyed obgwstat.dsp                
+obgwMT.plg           REBUILD     4/11/12  10:43    Destroyed obgwMT.plg                  
+obgwMT.opt           REBUILD     4/11/12  10:43    Destroyed obgwMT.opt                  
+obgwMT.ncb           REBUILD     4/11/12  10:43    Destroyed obgwMT.ncb                  
+obgwMT.mak           REBUILD     4/11/12  10:43    Destroyed obgwMT.mak                  
+obgwMT.dsw           REBUILD     4/11/12  10:43    Destroyed obgwMT.dsw                  
+obgwMT.dsp           REBUILD     4/11/12  10:43    Destroyed obgwMT.dsp                  
+obgwinstMT.dsp       REBUILD     4/11/12  10:43    Destroyed obgwinstMT.dsp              
+obgwinst.dsp         REBUILD     4/11/12  10:43    Destroyed obgwinst.dsp                
+source/obgwidvp/obgw REBUILD     4/11/12   0:40    Destroyed obgwinst.h                  
+ inst.h                                                                                  
+source/obgwidvp/obgw REBUILD     4/11/12   0:40    Destroyed obgwidvl.rc                 
+ idvl.rc                                                                                 
+source/obgwidvp/obgw REBUILD     4/11/12   0:40    Destroyed obgwidvl.c                  
+ idvl.c                                                                                  
+source/obgwidvp/file REBUILD     4/11/12   0:40    Destroyed filedvl.lst                 
+ dvl.lst                                                                                 
+source/obgw/rcompres REBUILD     4/11/12   0:38    Destroyed rcompress.cpp               
+ s.cpp                                                                                   
+source/obgw/do_conf. REBUILD     4/11/12   0:38    Destroyed do_conf.cpp                 
+ cpp                                                                                     
+source/include/obgwp REBUILD     4/11/12   0:35    Destroyed obgwp.h                     
+ .h                                                                                      
+source/include/OBGWI REBUILD     4/11/12   0:35    Destroyed OBGWINST.H                  
+ NST.H                                                                                   
+source/include/obgwd REBUILD     4/11/12   0:35    Destroyed obgwdeb.h                   
+ eb.h                                                                                    
+source/include/merro REBUILD     4/11/12   0:35    Destroyed merro.h                     
+ .h                                                                                      
+source/include/gener REBUILD     4/11/12   0:35    Destroyed general.h                   
+ al.h                                                                                    
+Config/hostsim.cfg   REBUILD     4/11/12   0:23    Destroyed hostsim.cfg                 
+Config/host.cfg      REBUILD     4/11/12   0:23    Destroyed host.cfg                    
+obgwidvpMT.dsp       REBUILD     4/11/12   0:20    Destroyed obgwidvpMT.dsp              
+OBGW.MAK             REBUILD     4/11/12   0:20    Destroyed OBGW.MAK                    
+obgw.dsp             REBUILD     4/11/12   0:20    Destroyed obgw.dsp                    
+OBGW.doc             REBUILD     4/11/12   0:20    Destroyed OBGW.doc                    
+$source/obgwtst      Admin      12/08/11  20:03    Added obgwtst                         
+resource.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwstw/resource.h                     
+obgwstw.rc           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwstw/obgwstw.rc                     
+obgwstw.cpp          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwstw/obgwstw.cpp                    
+obgwtst.cpp          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwtst/obgwtst.cpp                    
+$source/obgwstw      Admin      12/08/11  20:03    Added obgwstw                         
+$source/obgwstat     Admin      12/08/11  20:03    Added obgwstat                        
+obgwinst.rc          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwinst/obgwinst.rc                   
+obgwinst.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwinst/obgwinst.h                    
+obgwinst.c           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwinst/obgwinst.c                    
+filexec.lst          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwinst/filexec.lst                   
+obgwstat.cpp         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwstat/obgwstat.cpp                  
+icon1.ico            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwstw/icon1.ico                      
+$source/obgwinst     Admin      12/08/11  20:03    Added obgwinst                        
+$source/obgwidvp     Admin      12/08/11  20:03    Added obgwidvp                        
+rcompress.cpp        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gw/rcompress.cpp                     
+ptacfg.cpp           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gw/ptacfg.cpp                        
+obgw.cpp             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gw/obgw.cpp                          
+merro.c              Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gw/merro.c                           
+obgwinst.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwidvp/obgwinst.h                    
+obgwidvl.rc          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwidvp/obgwidvl.rc                   
+obgwidvl.c           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwidvp/obgwidvl.c                    
+filedvl.lst          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gwidvp/filedvl.lst                   
+$source/obgw         Admin      12/08/11  20:03    Added obgw                            
+trxcodes.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/trxcodes.h                     
+tabebcasc.h          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/tabebcasc.h                    
+host2.cpp            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gw/host2.cpp                         
+host1.cpp            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gw/host1.cpp                         
+do_conf.cpp          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/ob 
+                                                    gw/do_conf.cpp                       
+sot_errno.h          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/sot_errno.h                    
+sot.h                Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/sot.h                          
+ptatypes.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/ptatypes.h                     
+ptad.h               Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/ptad.h                         
+OBTOPAA.H            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/OBTOPAA.H                      
+obphost.h            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obphost.h                      
+OBPAABM.H            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/OBPAABM.H                      
+obopus.h             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obopus.h                       
+OBIOSOT.H            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/OBIOSOT.H                      
+obhsot.h             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obhsot.h                       
+obhostsot.h          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obhostsot.h                    
+obgwret.h            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obgwret.h                      
+obgwp.h              Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obgwp.h                        
+OBGWINST.H           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/OBGWINST.H                     
+obgwhost.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obgwhost.h                     
+$source              Admin      12/08/11  20:03    Added source                          
+$servcode            Admin      12/08/11  20:03    Added servcode                        
+$source/include      Admin      12/08/11  20:03    Added include                         
+obgwdeb.h            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obgwdeb.h                      
+merro.h              Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/merro.h                        
+general.h            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/general.h                      
+defsot.h             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/defsot.h                       
+debug.h              Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/debug.h                        
+$liberacao           Admin      12/08/11  20:03    Added liberacao                       
+$Config              Admin      12/08/11  20:03    Added Config                          
+obgwtstMT.dsp        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwtstMT 
+                                                    .dsp                                 
+obgwtst.dsp          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwtst.d 
+                                                    sp                                   
+TABOPER.CFG          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/Config/TA 
+                                                    BOPER.CFG                            
+hostsim.cfg          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/Config/ho 
+                                                    stsim.cfg                            
+host.cfg             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/Config/ho 
+                                                    st.cfg                               
+obgwrelease.bat      Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/liberacao 
+                                                    /obgwrelease.bat                     
+obgwstwMT.dsp        Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwstwMT 
+                                                    .dsp                                 
+obgwstw.dsp          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwstw.d 
+                                                    sp                                   
+obgwstatMT.dsp       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwstatM 
+                                                    T.dsp                                
+obgwstat.dsp         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwstat. 
+                                                    dsp                                  
+obgwMT.plg           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.pl 
+                                                    g                                    
+obgwMT.opt           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.op 
+                                                    t                                    
+obgwMT.ncb           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.nc 
+                                                    b                                    
+obgwMT.mak           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.ma 
+                                                    k                                    
+obgwMT.dsw           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.ds 
+                                                    w                                    
+obgwMT.dsp           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwMT.ds 
+                                                    p                                    
+obgwinstMT.dsp       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwinstM 
+                                                    T.dsp                                
+obgwinst.dsp         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwinst. 
+                                                    dsp                                  
+obgwidvpMT.dsp       Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwidvpM 
+                                                    T.dsp                                
+obgwidvp.dsp         Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgwidvp. 
+                                                    dsp                                  
+OBGW.MAK             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/OBGW.MAK  
+OBGW.dsw             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/OBGW.dsw  
+obgw.dsp             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/obgw.dsp  
+OBGW.doc             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/OBGW.doc  
+                     Admin      12/08/11  20:03    Created obgw                          

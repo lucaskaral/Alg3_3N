@@ -1,0 +1,62 @@
+$/OBA/PV2K_1800/obgw/source/include
+
+ptatypes.h           REBUILD     4/11/12  10:57    Destroyed ptatypes.h                  
+ptad.h               REBUILD     4/11/12  10:57    Destroyed ptad.h                      
+obphost.h            REBUILD     4/11/12  10:57    Destroyed obphost.h                   
+OBPAABM.H            REBUILD     4/11/12  10:57    Destroyed OBPAABM.H                   
+obopus.h             REBUILD     4/11/12  10:57    Destroyed obopus.h                    
+OBIOSOT.H            REBUILD     4/11/12  10:57    Destroyed OBIOSOT.H                   
+obhsot.h             REBUILD     4/11/12  10:57    Destroyed obhsot.h                    
+obhostsot.h          REBUILD     4/11/12  10:57    Destroyed obhostsot.h                 
+defsot.h             REBUILD     4/11/12  10:57    Destroyed defsot.h                    
+debug.h              REBUILD     4/11/12  10:57    Destroyed debug.h                     
+obgwp.h              REBUILD     4/11/12   0:35    Destroyed obgwp.h                     
+OBGWINST.H           REBUILD     4/11/12   0:35    Destroyed OBGWINST.H                  
+obgwdeb.h            REBUILD     4/11/12   0:35    Destroyed obgwdeb.h                   
+merro.h              REBUILD     4/11/12   0:35    Destroyed merro.h                     
+general.h            REBUILD     4/11/12   0:35    Destroyed general.h                   
+trxcodes.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/trxcodes.h                     
+tabebcasc.h          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/tabebcasc.h                    
+sot_errno.h          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/sot_errno.h                    
+sot.h                Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/sot.h                          
+ptatypes.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/ptatypes.h                     
+ptad.h               Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/ptad.h                         
+OBTOPAA.H            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/OBTOPAA.H                      
+obphost.h            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obphost.h                      
+OBPAABM.H            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/OBPAABM.H                      
+obopus.h             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obopus.h                       
+OBIOSOT.H            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/OBIOSOT.H                      
+obhsot.h             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obhsot.h                       
+obhostsot.h          Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obhostsot.h                    
+obgwret.h            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obgwret.h                      
+obgwp.h              Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obgwp.h                        
+OBGWINST.H           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/OBGWINST.H                     
+obgwhost.h           Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obgwhost.h                     
+obgwdeb.h            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/obgwdeb.h                      
+merro.h              Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/merro.h                        
+general.h            Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/general.h                      
+defsot.h             Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/defsot.h                       
+debug.h              Admin      12/08/11  20:03    Shared $/OBA/PV2K_1750/obgw/source/in 
+                                                    clude/debug.h                        
+                     Admin      12/08/11  20:03    Created include                       
