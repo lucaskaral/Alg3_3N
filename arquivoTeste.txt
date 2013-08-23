@@ -1,1 +1,0 @@
-Criacao do arquivoTeste para testar o Branch experimental.
